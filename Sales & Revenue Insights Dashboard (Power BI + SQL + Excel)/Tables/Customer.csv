@@ -1,0 +1,21 @@
+customer_id,customer_name,email,phone,region
+1,Alice Johnson,alice@email.com,1111111111,North
+2,Bob Smith,bob@email.com,2222222222,South
+3,Charlie Brown,charlie@email.com,3333333333,East
+4,Diana Prince,diana@email.com,4444444444,West
+5,Ethan Hunt,ethan@email.com,5555555555,North
+6,Fiona Shaw,fiona@email.com,6666666666,South
+7,George Hall,george@email.com,7777777777,East
+8,Hannah Lee,hannah@email.com,8888888888,West
+9,Ian Scott,ian@email.com,9999999999,North
+10,Julia Adams,julia@email.com,1010101010,South
+11,Kevin White,kevin@email.com,1212121212,East
+12,Laura King,laura@email.com,1313131313,West
+13,Michael Chen,michael@email.com,1414141414,North
+14,Nina Patel,nina@email.com,1515151515,South
+15,Oliver Wright,oliver@email.com,1616161616,East
+16,Paula Green,paula@email.com,1717171717,West
+17,Raj Singh,raj@email.com,1818181818,North
+18,Sophia Turner,sophia@email.com,1919191919,South
+19,Tom Harris,tom@email.com,2020202020,East
+20,Uma Das,uma@email.com,2121212121,West
