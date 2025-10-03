@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_price,cost_price
+101,Laptop,Electronics,800,600
+102,Smartphone,Electronics,500,350
+103,Tablet,Electronics,300,200
+104,Headphones,Electronics,100,60
+105,Smartwatch,Electronics,250,180
+106,Desk Chair,Furniture,150,100
+107,Office Desk,Furniture,400,300
+108,Bookshelf,Furniture,200,120
+109,Sofa,Furniture,700,500
+110,Dining Table,Furniture,600,450
+111,Running Shoes,Sportswear,120,80
+112,Jacket,Sportswear,200,150
+113,T-Shirt,Sportswear,40,20
+114,Backpack,Sportswear,90,60
+115,Football,Sportswear,50,30
